@@ -4,14 +4,13 @@ highlighter: pygments
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
 
 # Setup
 title: Swapnil's Tutoring
 tagline: "High Quality Tutoring for High School and College Students"
 description: "Swapnil is a great tutor."
-url: http://hyde.getpoole.com
-baseurl: /
+url: https://SwapnilPande.github.io
+baseurl: /swapnils-tutoring
 
 author:
   name: "Swapnil Pande"
