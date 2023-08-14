@@ -490,3 +490,7 @@ a.pagination-item:hover {
     /* Center the image */
     margin-right: auto;
 }
+
+.sidebar-about h1 a:hover {
+    text-decoration: none;
+}
