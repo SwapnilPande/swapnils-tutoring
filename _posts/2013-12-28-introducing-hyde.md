@@ -11,7 +11,7 @@ Some quick stats about me:
 * Master's in Robotics from Carnegie Mellon University: GPA 3.98
 * Strengths: Trigonometry, Calculus, Linear Algebra, Physics (Mechanics and Electromagnetism), Computer Science
 
-### Approach to Tutoring
+### <a id="approach"></a>Approach to Tutoring
 
 Advanced topics in mathematics, physics, and computer science are challenging! I believe these classes are a big leap in difficulty as they require students to understand and reason about concepts far removed from our daily experiences. They ask students to build mathematical abstractions, apply those abstractions to solve problems, and then build new abstractions on top of the previous ones in an endless cycle. Furthermore, all of these classes are so intertwined that missing even a single step can make the whole tower come crashing down quickly. I believe this is the source of the questions like "why do we learn calculus, it's not even useful in the real world" and the sentiments of disillusionment with physics and math.
 
@@ -22,10 +22,11 @@ The latter is at core of my tutoring style. **My goal** with tutoring is to help
 My aim isn't just to help you get the grade in your classes, but to arm you with the understanding and confidence to navigate these subjects on your own.  I like to schedule a (free) introductory session with my students to get to know them and their goals better to decide if we're a good fit for each other. If you're interested, please fill out the contact form below.
 
 
-### Services
+### <a id="services"></a>Services
+
 I offer tutoring for the following subjects/classes. If you are looking for tutoring in engineering-specific sbujects, please contact me to discuss the specifics.
 
-##### Mathematics**:
+##### Mathematics:
 * Calculus AB
 * Calculus BC
 * Calculus I, II, III
@@ -40,12 +41,14 @@ I offer tutoring for the following subjects/classes. If you are looking for tuto
 * Introductory Programming (Python, Java, C++)
 * Data Structures and Algorithms
 
-### Rates
+### <a id="rates"></a>Rates
+
 I offer packages of 5, 10, and 15 sessions. Each session is 1 hour long. Before the first session, I like to meet all of my students for a free introductory session to get to know each other and discuss your goals.
 
 * 5 sessions: $925 ($185/session)
 * 10 sessions: $1750 ($175/session)
 * 15 sessions: $2475 ($165/session)
 
-### Contact
+### <a id="contact"></a>Contact
+
 Please fill out the contact form below and I will get back to you as soon as possible. I look forward to working with you!
