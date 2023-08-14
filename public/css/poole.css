@@ -476,9 +476,9 @@ a.pagination-item:hover {
 #profile-pic {
     border-radius: 50%;
     /* This will make the image circular */
-    width: 100px;
+    width: 300px;
     /* Adjust as required */
-    height: 100px;
+    height: 300px;
     /* Adjust as required */
     object-fit: cover;
     /* Ensure image content fits the container without distortion */
