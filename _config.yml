@@ -8,13 +8,12 @@ permalink: pretty
 # Setup
 title: Swapnil's Tutoring
 tagline: "High Quality Tutoring for High School and College Students"
-description: "Swapnil is a great tutor."
+description: "Tutoring in advanced math, physics, and computer science for high school and college students."
 url: https://SwapnilPande.github.io
 baseurl: /swapnils-tutoring
 
 author:
   name: "Swapnil Pande"
-  url: https://linkedin.com/in/SwapnilPande
 
 paginate: 5
 
